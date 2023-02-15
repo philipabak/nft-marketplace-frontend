@@ -2,6 +2,9 @@
 
 <!-- Run in Your local environment -->
 
+# Live demo site URL
+- https://nuronmarketplace.netlify.app/
+
 # Prerequisites
 
 * [nodejs](https://nodejs.org/en/download/) for backend smart contract deploy
